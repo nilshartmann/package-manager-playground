@@ -1,0 +1,7 @@
+{
+  "name": "hello-world-yarn-berry",
+  "packageManager": "yarn@3.2.1",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
